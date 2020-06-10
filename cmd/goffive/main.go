@@ -44,7 +44,7 @@ func main() {
 	}
 
 
-	signatories, err :=conf.ASM.Signatories("08E2vm9ejesvAX8paBY1bg")
+	signatories, err :=conf.ASM.Signatories("08E2vm9ejesvAX8paBY1ff")
 	if err != nil {
 		panic(err)
 	}
